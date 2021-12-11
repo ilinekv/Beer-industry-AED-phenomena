@@ -4,8 +4,8 @@ Project timeline:
 Oct 2020 - Dec 2020
 
 Project team:
-- Zinaida Dvoskina (myself)
-- Kirill Ilin
+- Kirill Ilin (myself)
+- Zinaida Dvoskina
 
 Made a business analytics project on the Beer industry unique phenomena of zero advertising elasticity of demand.
 Analyzed several previous research papers along with the most current data from AB InBev to prove that industry advertising elasticity is close to zero, whereas brand advertising elasticity is significant.
